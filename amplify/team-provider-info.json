@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-novenointentoaws-staging-15259-authRole",
+      "UnauthRoleArn": "arn:aws:iam::983051680328:role/amplify-novenointentoaws-staging-15259-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::983051680328:role/amplify-novenointentoaws-staging-15259-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-novenointentoaws-staging-15259-deployment",
+      "UnauthRoleName": "amplify-novenointentoaws-staging-15259-unauthRole",
+      "StackName": "amplify-novenointentoaws-staging-15259",
+      "StackId": "arn:aws:cloudformation:us-east-1:983051680328:stack/amplify-novenointentoaws-staging-15259/583ea9b0-148d-11ee-b0a5-0e7f2c7b70c7",
+      "AmplifyAppId": "d2ixeq9dx47ycr"
+    }
+  }
+}
